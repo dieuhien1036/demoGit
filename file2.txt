@@ -2,4 +2,5 @@ file2
 sua file2 lan 1
 sua file2 lan 2
 
-sua file2 lan 3 tu remote. o local tao conflict
+
+sua file2 lan 3 tu remote. o local tao conflict. co tinh tao conflict ne ahihi
