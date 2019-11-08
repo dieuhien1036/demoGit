@@ -1,2 +1,3 @@
 file2
 sua file2 lan 1
+sua file2 lan 2
